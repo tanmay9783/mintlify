@@ -1,5 +1,6 @@
 # Mintlify Documentation Website Recreation
-
+link to the site -> https://tanmay9783.github.io/mintlify
+--
 A desktop-first documentation-style website inspired by the Mintlify website. This project recreates the structure, layout, and design aesthetic of Mintlify's marketing site using only HTML and CSS.
 
 ## 🎯 Project Overview
@@ -192,26 +193,7 @@ cd mintlify-recreation
 ```
 
 ## 📸 Screenshots
-
-*(Screenshots would be added here showing the final output)*
-
-## 🎯 Design Fidelity
-
-### **What Was Matched:**
-- Overall layout structure and spacing
-- Color scheme and brand colors
-- Typography hierarchy and font choices
-- Component styles (cards, buttons, badges)
-- Navigation structure
-- Footer organization
-- Section arrangements
-
-### **Limitations:**
-- Images are placeholders (SVG data URIs)
-- Icons are simplified SVG shapes
-- No actual logo SVGs (used simplified versions)
-- No animations or interactive elements beyond hover states
-- Desktop-only design (no responsive breakpoints implemented for assignment requirements)
+<img width="1917" height="1002" alt="image" src="https://github.com/user-attachments/assets/f32d0fcb-ebd6-45ca-998f-af846fe98715" />
 
 ## 📚 Resources Referenced
 
@@ -220,35 +202,3 @@ cd mintlify-recreation
 - Inter Font: https://fonts.google.com/specimen/Inter
 - Design inspiration from Mintlify's blog posts on design philosophy
 
-## 🔍 Code Quality
-
-- Semantic HTML5 elements
-- BEM-inspired CSS naming conventions
-- Organized CSS with clear sections
-- CSS variables for maintainability
-- Comments for major sections
-- Clean, readable code structure
-
-## 💡 Future Enhancements
-
-If this were to be expanded beyond the assignment requirements:
-- Add actual Mintlify brand assets and logos
-- Implement responsive design for mobile and tablet
-- Add subtle animations and transitions
-- Include interactive navigation dropdowns
-- Integrate real images from Mintlify's website
-- Add JavaScript for enhanced interactivity
-
-## 📝 Notes
-
-This recreation focuses on structural accuracy and layout fidelity to the original Mintlify website. While actual images and some interactive features are simplified, the core design language, spacing, typography, and component structure closely mirror the original design.
-
-## 📄 License
-
-This is an educational project created for learning purposes. All design inspiration belongs to Mintlify, Inc.
-
----
-
-**Created by:** [Your Name]  
-**Date:** February 2026  
-**Assignment:** Mintlify Website Recreation
